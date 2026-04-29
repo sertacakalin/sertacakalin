@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sertaç Akalın
 
-<!--
-**sertacakalin/sertacakalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student who is continuously improving himself in the field of software development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have previously worked on Java projects and spent time improving myself, especially with Spring Boot.
+
+Currently, I am focusing on Python and Artificial Intelligence, and I am actively developing my skills in these areas.
+
+## Interests
+
+* Python
+* Artificial Intelligence (AI)
+* Backend Development
+
+## Goal
+
+My goal is to improve myself in software development and AI, and to build strong and impactful projects.
+
+## CV
+
+You can view my CV here: [Download CV](SERTAÇ AKALIN_CV.pdf)
