@@ -20,4 +20,4 @@ My goal is to improve myself in software development and AI, and to build strong
 
 ## CV
 
-You can view my CV here: [Download CV](SERTAÇ AKALIN_CV.pdf)
+You can view my CV here: [Download CV](SERTACAKALIN_CV.pdf)
