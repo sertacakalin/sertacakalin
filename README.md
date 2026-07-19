@@ -1,6 +1,6 @@
 # Hi, I'm Sertaç Akalın
 
-I am a Computer Engineering student who is continuously improving himself in the field of software development.
+I am a Computer Engineering who is continuously improving himself in the field of software development.
 
 ## About Me
 
